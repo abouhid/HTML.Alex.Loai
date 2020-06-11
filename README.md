@@ -1,4 +1,4 @@
-# Google Homepage Project
+# HTML Project Microverse Trials
 
 > This is a project that was meant to recreate the google homepage, as a task of The Odin Project.
 
